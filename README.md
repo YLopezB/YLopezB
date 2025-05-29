@@ -31,7 +31,7 @@
 - **Backend ⚙️**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,express,nodejs,mysql,mongo,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,django,express,nodejs,mysql,mongo,&perline=12" />
   </a>
 </p>
 <br>
@@ -39,7 +39,7 @@
 - **Technologies 🛠️**:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,git,github,postman,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=firebase,git,github,postman,vscode,bash,powershell,linux&perline=12" />
   </a>
 </p>
 <br>
